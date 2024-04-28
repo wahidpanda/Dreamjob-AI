@@ -1,0 +1,10 @@
+streamlit
+base64
+os
+io
+pdf2image
+docx
+io
+google.generativeai 
+dotenv 
+requests
