@@ -1,10 +1,7 @@
-streamlit
 base64
-os
-io
 pdf2image
 docx
-io
-google.generativeai 
-dotenv 
+google
+python-dotenv
 requests
+streamlit
