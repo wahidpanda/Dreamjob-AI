@@ -6,4 +6,3 @@ python-dotenv==1.0.1
 requests==2.31.0
 streamlit==1.33.0
 poppler-utils==0.1.0
-python-poppler==0.4.1
