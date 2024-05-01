@@ -4,7 +4,10 @@ Dreamjob.AI is an advanced career development platform designed to empower job s
 **This project is for**: https://googleai.devpost.com/ 
 We are from Bangladesh 🇧🇩 . Participating on **Google AI Hackathon 2024**. 
 How it works:
-Presentation video:
+
+**Presentation video: ******
+1.** Dreamjob.AI | Google AI Hackathon 2024 | 3 Min Demo** : https://www.youtube.com/watch?v=QWspMQeWGkg
+2. **Low Code Implementation-DreamJob.AI | Google AI Hackathon 2024 | 5 min demo**: https://www.youtube.com/watch?v=7rGTfnJJuSs
 
 # Dreamjob.AI
 
