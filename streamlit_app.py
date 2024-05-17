@@ -83,7 +83,7 @@ def get_gemini_response(input, pdf_content, prompt):
 def authenticate(username, password):
     # Replace this with your own authentication logic
     # For example, you might query a database to validate credentials
-    return username == "@wahid" and password == "12#"
+    return username == "f" and password == "logasDSA"
 
 # Define a function to show the login form
 def show_login_form():
